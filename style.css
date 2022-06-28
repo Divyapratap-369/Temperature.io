@@ -44,22 +44,7 @@ body{
 .cf{
   display: flex;
 }
-.heading{
-  position: absolute;
-  color: white;
-  top: 170px;
-  height: 65px;
-  width: 540px;
-  text-align: center;
-  /* border: 1px solid white; */
-  border-radius: 10px;
-  background-color: #2C3639;
-}
-.text{
-  font-weight: bold;
-  font-size: 30px;
 
-}
 input{
   width: 100%;
   height: 50px;
